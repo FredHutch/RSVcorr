@@ -1,2 +1,2 @@
 # RSVcorr
-RSV correlates data package (public)
+RSV correlates data package (for manuscript)
