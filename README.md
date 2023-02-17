@@ -12,9 +12,10 @@ dat.wide.v (407 rows) is a subset of dat.wide and contains participants only in 
 # To install the package
 library(devtools)   
 install_github("FredHutch/RSVcorr")  
+library(RSVcorr)
 
 # Checking the datasets within the package
-RSVcorr:: <hit tab>
+RSVcorr:: (hit tab)
 
 # For data dictionary   
 ?RSVcorr::dat.wide
